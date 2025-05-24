@@ -7,6 +7,7 @@ PYTHON
 
 #java
 #do{
-#
-#}while();
+# i = 5
+#syso ("loading...")
+#}while(i = 5);
 ```
